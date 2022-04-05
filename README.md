@@ -48,8 +48,7 @@
   <img src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="25" />
   &emsp;
   <img src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="25" />
-</div>
-<div align="center" style="margin-bottom: 20px;">
+  &emsp;
   <img src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="25" />
   &emsp;
   <img src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="25" />
