@@ -152,7 +152,7 @@
   </picture>
 </div>
 
-<div align="start" style="margin-bottom: 10px;">
+<div align="start" style="margin-bottom: 20px;">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/icons/AdobeXD.svg">
     <source media="(prefers-color-scheme: light)" srcset="./assets/icons/AdobeXD.svg">
@@ -177,5 +177,6 @@
     <img src="./assets/icons/UnrealEngine.svg" height="35" alt="UnrealEngine">
   </picture>
 </div>
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
