@@ -8,7 +8,7 @@
 
 #### Languages and Tools
 
-<div align="start" style="margin-bottom: 5px;">
+<div align="start" style="margin-bottom: 10px;">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/icons/HTML.svg">
     <source media="(prefers-color-scheme: light)" srcset="./assets/icons/HTML.svg">
@@ -52,7 +52,7 @@
   </picture>
 </div>
 
-<div align="start" style="margin-bottom: 5px;">
+<div align="start" style="margin-bottom: 10px;">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/icons/Webpack-Dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="./assets/icons/Webpack-Light.svg">
@@ -108,7 +108,7 @@
   </picture>
 </div>
 
-<div align="start" style="margin-bottom: 5px;">
+<div align="start" style="margin-bottom: 10px;">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/icons/PHP-Dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="./assets/icons/PHP-Light.svg">
@@ -152,7 +152,7 @@
   </picture>
 </div>
 
-<div align="start" style="margin-bottom: 5px;">
+<div align="start" style="margin-bottom: 10px;">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/icons/AdobeXD.svg">
     <source media="(prefers-color-scheme: light)" srcset="./assets/icons/AdobeXD.svg">
