@@ -22,9 +22,9 @@
   </picture>
   &nbsp;
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/icons/SASS.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/icons/SASS.svg">
-    <img src="./assets/icons/SASS.svg" height="35" alt="SASS">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/icons/Sass.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/icons/Sass.svg">
+    <img src="./assets/icons/Sass.svg" height="35" alt="SASS">
   </picture>
   &nbsp;
   <picture>
