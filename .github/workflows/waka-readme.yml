@@ -1,4 +1,4 @@
-name: Waka Readme
+name: WakaTime status update
 
 on:
   workflow_dispatch: # for manual workflow trigger
@@ -6,19 +6,15 @@ on:
     - cron: '0 0 * * *' # runs at every 12AM UTC
 
 jobs:
-  update-gist:
-    name: WakaReadme DevMetrics
+  update-readme:
+    name: Update the WakaTime Stat
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@master
+      - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TITLE: true
-          BLOCKS: ->
-          TIME_RANGE: all_time
-          SHOW_TIME: true
-          SHOW_MASKED_TIME: true
           # following flags are required, only if this is not on
           # profile readme, remove the leading `#` to use them
-          #GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          #REPOSITORY: <emravoan/emravoan>
+          # GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          # REPOSITORY: <emravoan/emravoan>
