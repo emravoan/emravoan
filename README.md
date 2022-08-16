@@ -10,165 +10,165 @@
 
 <div align="start" style="margin-bottom: 5px;">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/icons/html.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/icons/html.svg">
-    <img src="./assets/icons/html.svg" height="35" alt="HTML">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/icons/HTML.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/icons/HTML.svg">
+    <img src="./assets/icons/HTML.svg" height="35" alt="HTML">
   </picture>
   &nbsp;
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/icons/css.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/icons/css.svg">
-    <img src="./assets/icons/css.svg" height="35" alt="CSS">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/icons/CSS.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/icons/CSS.svg">
+    <img src="./assets/icons/CSS.svg" height="35" alt="CSS">
   </picture>
   &nbsp;
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/icons/sass.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/icons/sass.svg">
-    <img src="./assets/icons/sass.svg" height="35" alt="SASS">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/icons/SASS.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/icons/SASS.svg">
+    <img src="./assets/icons/SASS.svg" height="35" alt="SASS">
   </picture>
   &nbsp;
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/icons/javascript.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/icons/javascript.svg">
-    <img src="./assets/icons/javascript.svg" height="35" alt="JavaScript">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/icons/JavaScript.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/icons/JavaScript.svg">
+    <img src="./assets/icons/JavaScript.svg" height="35" alt="JavaScript">
   </picture>
   &nbsp;
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/icons/typescript.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/icons/typescript.svg">
-    <img src="./assets/icons/typescript.svg" height="35" alt="TypeScript">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/icons/TypeScript.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/icons/TypeScript.svg">
+    <img src="./assets/icons/TypeScript.svg" height="35" alt="TypeScript">
   </picture>
   &nbsp;
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/icons/bootstrap.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/icons/bootstrap.svg">
-    <img src="./assets/icons/bootstrap.svg" height="35" alt="Bootstrap">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/icons/Bootstrap.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/icons/Bootstrap.svg">
+    <img src="./assets/icons/Bootstrap.svg" height="35" alt="Bootstrap">
   </picture>
   &nbsp;
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/icons/tailwindcss-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/icons/tailwindcss-light.svg">
-    <img src="./assets/icons/tailwindcss-dark.svg" height="35" alt="TailwindCSS">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/icons/TailwindCSS-Dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/icons/TailwindCSS-Light.svg">
+    <img src="./assets/icons/TailwindCSS-Dark.svg" height="35" alt="TailwindCSS">
   </picture>
 </div>
 
 <div align="start" style="margin-bottom: 5px;">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/icons/webpack-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/icons/webpack-light.svg">
-    <img src="./assets/icons/webpack-dark.svg" height="35" alt="Webpack5">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/icons/Webpack-Dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/icons/Webpack-Light.svg">
+    <img src="./assets/icons/Webpack-Dark.svg" height="35" alt="Webpack5">
   </picture>
   &nbsp;
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/icons/vite-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/icons/vite-light.svg">
-    <img src="./assets/icons/vite-dark.svg" height="35" alt="ViteJS">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/icons/Vite-Dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/icons/Vite-Light.svg">
+    <img src="./assets/icons/Vite-Dark.svg" height="35" alt="ViteJS">
   </picture>
   &nbsp;
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/icons/vuejs-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/icons/vuejs-light.svg">
-    <img src="./assets/icons/vuejs-dark.svg" height="35" alt="VueJS">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/icons/VueJS-Dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/icons/VueJS-Light.svg">
+    <img src="./assets/icons/VueJS-Dark.svg" height="35" alt="VueJS">
   </picture>
   &nbsp;
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/icons/react-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/icons/react-light.svg">
-    <img src="./assets/icons/react-dark.svg" height="35" alt="ReactJS">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/icons/React-Dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/icons/React-Light.svg">
+    <img src="./assets/icons/React-Dark.svg" height="35" alt="ReactJS">
   </picture>
   &nbsp;
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/icons/nestjs-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/icons/nestjs-light.svg">
-    <img src="./assets/icons/nestjs-dark.svg" height="35" alt="NestJS">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/icons/NestJS-Dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/icons/NestJS-Light.svg">
+    <img src="./assets/icons/NestJS-Dark.svg" height="35" alt="NestJS">
   </picture>
   &nbsp;
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/icons/graphql-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/icons/graphql-light.svg">
-    <img src="./assets/icons/graphql-dark.svg" height="35" alt="GraphQL">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/icons/GraphQL-Dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/icons/GraphQL-Light.svg">
+    <img src="./assets/icons/GraphQL-Dark.svg" height="35" alt="GraphQL">
   </picture>
   &nbsp;
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/icons/redux.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/icons/redux.svg">
-    <img src="./assets/icons/redux.svg" height="35" alt="Redux">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/icons/Redux.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/icons/Redux.svg">
+    <img src="./assets/icons/Redux.svg" height="35" alt="Redux">
   </picture>
   &nbsp;
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/icons/eslint.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/icons/eslint.svg">
-    <img src="./assets/icons/eslint.svg" height="35" alt="ESLint">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/icons/ESLint.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/icons/ESLint.svg">
+    <img src="./assets/icons/ESLint.svg" height="35" alt="ESLint">
   </picture>
   &nbsp;
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/icons/prettier.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/icons/prettier.svg">
-    <img src="./assets/icons/prettier.svg" height="35" alt="Prettier">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/icons/Prettier.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/icons/Prettier.svg">
+    <img src="./assets/icons/Prettier.svg" height="35" alt="Prettier">
   </picture>
 </div>
 
 <div align="start" style="margin-bottom: 5px;">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/icons/php-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/icons/php-light.svg">
-    <img src="./assets/icons/php-light.svg" height="35" alt="PHP">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/icons/PHP-Dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/icons/PHP-Light.svg">
+    <img src="./assets/icons/PHP-Light.svg" height="35" alt="PHP">
   </picture>
   &nbsp;
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/icons/laravel-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/icons/laravel-light.svg">
-    <img src="./assets/icons/laravel-light.svg" height="35" alt="Laravel">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/icons/Laravel-Dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/icons/Laravel-Light.svg">
+    <img src="./assets/icons/Laravel-Light.svg" height="35" alt="Laravel">
   </picture>
   &nbsp;
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/icons/mysql-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/icons/mysql-light.svg">
-    <img src="./assets/icons/mysql-light.svg" height="35" alt="MySQL">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/icons/MySQL-Dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/icons/MySQL-Light.svg">
+    <img src="./assets/icons/MySQL-Light.svg" height="35" alt="MySQL">
   </picture>
   &nbsp;
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/icons/redis-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/icons/redis-light.svg">
-    <img src="./assets/icons/redis-light.svg" height="35" alt="Redis">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/icons/Redis-Dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/icons/Redis-Light.svg">
+    <img src="./assets/icons/Redis-Light.svg" height="35" alt="Redis">
   </picture>
   &nbsp;
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/icons/docker.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/icons/docker.svg">
-    <img src="./assets/icons/docker.svg" height="35" alt="Docker">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/icons/Docker.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/icons/Docker.svg">
+    <img src="./assets/icons/Docker.svg" height="35" alt="Docker">
   </picture>
   &nbsp;
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/icons/nginx.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/icons/nginx.svg">
-    <img src="./assets/icons/nginx.svg" height="35" alt="Nginx">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/icons/Nginx.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/icons/Nginx.svg">
+    <img src="./assets/icons/Nginx.svg" height="35" alt="Nginx">
   </picture>
   &nbsp;
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/icons/git.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/icons/git.svg">
-    <img src="./assets/icons/git.svg" height="35" alt="Git">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/icons/Git.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/icons/Git.svg">
+    <img src="./assets/icons/Git.svg" height="35" alt="Git">
   </picture>
 </div>
 
 <div align="start" style="margin-bottom: 5px;">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/icons/adobexd.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/icons/adobexd.svg">
-    <img src="./assets/icons/adobexd.svg" height="35" alt="AdobeXD">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/icons/AdobeXD.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/icons/AdobeXD.svg">
+    <img src="./assets/icons/AdobeXD.svg" height="35" alt="AdobeXD">
   </picture>
   &nbsp;
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/icons/photoshop.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/icons/photoshop.svg">
-    <img src="./assets/icons/photoshop.svg" height="35" alt="Photoshop">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/icons/Photoshop.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/icons/Photoshop.svg">
+    <img src="./assets/icons/Photoshop.svg" height="35" alt="Photoshop">
   </picture>
   &nbsp;
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/icons/aftereffects.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/icons/aftereffects.svg">
-    <img src="./assets/icons/aftereffects.svg" height="35" alt="AfterEffects">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/icons/AfterEffects.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/icons/AfterEffects.svg">
+    <img src="./assets/icons/AfterEffects.svg" height="35" alt="AfterEffects">
   </picture>
   &nbsp;
   <picture>
