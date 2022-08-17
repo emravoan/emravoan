@@ -180,12 +180,7 @@
 
 ---
 
-<!--START_SECTION:waka-->
-
-```text
-No activity tracked
-```
-
+<!--START_SECTION:waka&v2-->
 <!--END_SECTION:waka-->
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=emravoan.emravoan&left_color=DimGrey&right_color=RoyalBlue)
