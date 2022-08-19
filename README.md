@@ -183,7 +183,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 11 August 2022 - To: 18 August 2022
+
+PHP          12 hrs 14 mins  █████████████▒░░░░░░░░░░░   53.73 %
+Vue.js       2 hrs 1 min     ██▒░░░░░░░░░░░░░░░░░░░░░░   08.87 %
+Twig         1 hr 31 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.67 %
+Other        1 hr 21 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.93 %
 ```
 
 <!--END_SECTION:waka-->
