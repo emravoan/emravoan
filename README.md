@@ -183,13 +183,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 18 August 2022 - To: 25 August 2022
+From: 19 August 2022 - To: 26 August 2022
 
-PHP          15 hrs 25 mins  ██████████▒░░░░░░░░░░░░░░   41.27 %
-Twig         8 hrs 25 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.54 %
-TypeScript   6 hrs 15 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.75 %
-JavaScript   3 hrs 16 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.77 %
-Other        1 hr 29 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 %
+PHP          14 hrs 41 mins  ██████████░░░░░░░░░░░░░░░   40.52 %
+Twig         8 hrs 22 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.09 %
+TypeScript   6 hrs 15 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.27 %
+JavaScript   2 hrs 59 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 %
+Other        1 hr 13 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 %
 ```
 
 <!--END_SECTION:waka-->
