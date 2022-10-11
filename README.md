@@ -183,12 +183,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 02 October 2022 - To: 09 October 2022
+From: 03 October 2022 - To: 10 October 2022
 
-PHP          22 hrs 30 mins  ████████████▒░░░░░░░░░░░░   49.19 %
-Twig         14 hrs 2 mins   ███████▓░░░░░░░░░░░░░░░░░   30.68 %
-JavaScript   3 hrs 1 min     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.60 %
-Other        2 hrs 55 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.39 %
+PHP          22 hrs 54 mins  █████████████▓░░░░░░░░░░░   54.77 %
+Twig         10 hrs 3 mins   ██████░░░░░░░░░░░░░░░░░░░   24.04 %
+Other        3 hrs 9 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 %
 ```
 
 <!--END_SECTION:waka-->
