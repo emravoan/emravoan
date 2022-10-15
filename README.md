@@ -183,11 +183,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 06 October 2022 - To: 13 October 2022
+From: 07 October 2022 - To: 14 October 2022
 
-PHP             18 hrs 23 mins  █████████████░░░░░░░░░░░░   52.35 %
-Smarty          5 hrs 45 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.39 %
-Other           3 hrs 48 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.83 %
+PHP             16 hrs 59 mins  █████████████▓░░░░░░░░░░░   54.06 %
+Smarty          6 hrs 6 mins    █████░░░░░░░░░░░░░░░░░░░░   19.41 %
+Other           3 hrs 46 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.00 %
 ```
 
 <!--END_SECTION:waka-->
