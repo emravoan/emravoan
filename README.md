@@ -183,11 +183,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 11 October 2022 - To: 18 October 2022
+From: 12 October 2022 - To: 19 October 2022
 
-PHP             8 hrs 39 mins   █████████▒░░░░░░░░░░░░░░░   37.28 %
-Smarty          8 hrs 6 mins    ████████▓░░░░░░░░░░░░░░░░   34.88 %
-Other           2 hrs 35 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.17 %
+PHP          10 hrs 44 mins  ██████████▓░░░░░░░░░░░░░░   42.44 %
+Smarty       7 hrs 18 mins   ███████▒░░░░░░░░░░░░░░░░░   28.86 %
+YAML         1 hr 45 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.94 %
+Twig         1 hr 10 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 %
+SQL          1 hr 4 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 %
+Other        1 hr 2 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 %
 ```
 
 <!--END_SECTION:waka-->
