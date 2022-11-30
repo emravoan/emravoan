@@ -183,14 +183,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 21 November 2022 - To: 28 November 2022
+From: 22 November 2022 - To: 29 November 2022
 
-TypeScript   10 hrs 24 mins  ██████████▓░░░░░░░░░░░░░░   42.37 %
-PHP          6 hrs 41 mins   ██████▓░░░░░░░░░░░░░░░░░░   27.26 %
-Twig         3 hrs 54 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.89 %
-SCSS         42 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.91 %
-JavaScript   39 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.70 %
-Smarty       28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
+PHP          8 hrs 52 mins   ██████████▒░░░░░░░░░░░░░░   41.64 %
+TypeScript   7 hrs 17 mins   ████████▓░░░░░░░░░░░░░░░░   34.24 %
+Twig         1 hr 57 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.15 %
+JavaScript   54 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 %
+Other        48 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 %
 ```
 
 <!--END_SECTION:waka-->
