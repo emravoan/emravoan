@@ -183,12 +183,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 22 December 2022 - To: 29 December 2022
+From: 23 December 2022 - To: 30 December 2022
 
-TypeScript         20 hrs 5 mins   ██████████▓░░░░░░░░░░░░░░   43.04 %
-PHP                11 hrs 41 mins  ██████▒░░░░░░░░░░░░░░░░░░   25.05 %
-Twig               8 hrs 44 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.73 %
-Other              2 hrs 24 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.18 %
+TypeScript         17 hrs 59 mins  ██████████▒░░░░░░░░░░░░░░   41.87 %
+PHP                11 hrs 28 mins  ██████▓░░░░░░░░░░░░░░░░░░   26.69 %
+Twig               8 hrs 29 mins   █████░░░░░░░░░░░░░░░░░░░░   19.76 %
+Other              2 hrs           █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 %
 ```
 
 <!--END_SECTION:waka-->
