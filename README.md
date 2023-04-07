@@ -183,13 +183,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 29 March 2023 - To: 05 April 2023
+From: 30 March 2023 - To: 06 April 2023
 
-PHP          11 hrs 37 mins  ███████████░░░░░░░░░░░░░░   44.13 %
-Vue.js       7 hrs 33 mins   ███████░░░░░░░░░░░░░░░░░░   28.66 %
-TypeScript   2 hrs 6 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 %
-Twig         1 hr 56 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 %
-Other        1 hr 35 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.01 %
+PHP          11 hrs 49 mins  ████████████▒░░░░░░░░░░░░   48.83 %
+Vue.js       5 hrs 29 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.70 %
+Twig         2 hrs 27 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.13 %
+Other        1 hr 35 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.54 %
 ```
 
 <!--END_SECTION:waka-->
