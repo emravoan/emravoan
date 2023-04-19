@@ -183,14 +183,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 10 April 2023 - To: 17 April 2023
+From: 11 April 2023 - To: 18 April 2023
 
-Vue.js       3 hrs 32 mins   ███████▒░░░░░░░░░░░░░░░░░   29.02 %
-TypeScript   3 hrs 6 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.48 %
-Twig         2 hrs 3 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.89 %
-PHP          1 hr 31 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.53 %
-SCSS         1 hr 21 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.10 %
-JavaScript   16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.29 %
+PHP          4 hrs 7 mins    ██████░░░░░░░░░░░░░░░░░░░   24.26 %
+TypeScript   3 hrs 53 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.92 %
+Vue.js       3 hrs 32 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.86 %
+Twig         3 hrs 20 mins   █████░░░░░░░░░░░░░░░░░░░░   19.69 %
+SCSS         1 hr 24 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 %
+JavaScript   16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
 ```
 
 <!--END_SECTION:waka-->
