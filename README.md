@@ -183,9 +183,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 23 April 2023 - To: 30 April 2023
+From: 24 April 2023 - To: 01 May 2023
 
-No activity tracked
+Twig     45 mins         ██████████▓░░░░░░░░░░░░░░   43.09 %
+PHP      38 mins         █████████▒░░░░░░░░░░░░░░░   37.08 %
+Vue.js   20 mins         █████░░░░░░░░░░░░░░░░░░░░   19.83 %
 ```
 
 <!--END_SECTION:waka-->
