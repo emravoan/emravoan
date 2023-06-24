@@ -183,12 +183,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 June 2023 - To: 22 June 2023
+From: 16 June 2023 - To: 23 June 2023
 
-TypeScript   49 mins         █████████████▓░░░░░░░░░░░   55.30 %
-Markdown     20 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.34 %
-Vue.js       19 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.49 %
-PHP          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
