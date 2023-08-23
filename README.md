@@ -183,13 +183,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 August 2023 - To: 21 August 2023
+From: 15 August 2023 - To: 22 August 2023
 
-Python       14 hrs 8 mins   ██████████████▒░░░░░░░░░░   57.25 %
-Vue.js       7 hrs 54 mins   ████████░░░░░░░░░░░░░░░░░   32.01 %
-JavaScript   1 hr 21 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.51 %
-Bash         24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
-Ezhil        18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
+Python       21 hrs 49 mins  ███████████████████▒░░░░░   77.11 %
+Vue.js       3 hrs 27 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.22 %
+HTML         1 hr 11 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 %
+Bash         49 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.92 %
+JavaScript   22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
 ```
 
 <!--END_SECTION:waka-->
