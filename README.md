@@ -183,13 +183,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 August 2023 - To: 01 September 2023
+From: 26 August 2023 - To: 02 September 2023
 
-Python           5 hrs 2 mins    ███████████▓░░░░░░░░░░░░░   46.94 %
-PHP              2 hrs 16 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.12 %
-JSON             32 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.03 %
-HTML             31 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.85 %
-INI              28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 %
+TypeScript       4 hrs 43 mins   ███████▓░░░░░░░░░░░░░░░░░   30.31 %
+PHP              2 hrs 18 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.85 %
+Python           1 hr 55 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.30 %
+JavaScript       1 hr 39 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.67 %
+HTML             1 hr 14 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 %
 ```
 
 <!--END_SECTION:waka-->
