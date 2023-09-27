@@ -183,13 +183,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 September 2023 - To: 25 September 2023
+From: 19 September 2023 - To: 26 September 2023
 
-Vue.js         41 hrs 59 mins  ███████████████░░░░░░░░░░   60.25 %
-TypeScript     17 hrs 4 mins   ██████░░░░░░░░░░░░░░░░░░░   24.50 %
-SCSS           2 hrs 38 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 %
-ActionScript   1 hr 32 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.21 %
-PHP            1 hr 21 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 %
+Vue.js         44 hrs 33 mins  ████████████████░░░░░░░░░   64.17 %
+TypeScript     17 hrs 38 mins  ██████▒░░░░░░░░░░░░░░░░░░   25.41 %
+SCSS           2 hrs 45 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 %
+PHP            57 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
+Bash           46 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
 ```
 
 <!--END_SECTION:waka-->
