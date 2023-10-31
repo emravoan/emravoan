@@ -183,13 +183,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 October 2023 - To: 29 October 2023
+From: 23 October 2023 - To: 30 October 2023
 
-Vue.js           19 hrs 11 mins  █████████████▒░░░░░░░░░░░   53.55 %
-TypeScript       5 hrs 26 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.19 %
-Other            3 hrs 8 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.77 %
-JSON             2 hrs 33 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.14 %
-JavaScript       2 hrs 11 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.14 %
+Vue.js           17 hrs 18 mins  ███████████▓░░░░░░░░░░░░░   47.18 %
+TypeScript       6 hrs 49 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.60 %
+Other            3 hrs 45 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.23 %
+JSON             3 hrs 29 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.51 %
+JavaScript       2 hrs 14 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.13 %
 ```
 
 <!--END_SECTION:waka-->
