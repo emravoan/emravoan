@@ -183,13 +183,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 November 2023 - To: 07 December 2023
+From: 01 December 2023 - To: 08 December 2023
 
-TypeScript   18 hrs 36 mins  ███████████░░░░░░░░░░░░░░   44.30 %
-Vue.js       12 hrs 27 mins  ███████▒░░░░░░░░░░░░░░░░░   29.66 %
-HTML         3 hrs 48 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.07 %
-PHP          1 hr 48 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 %
-Python       1 hr 30 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 %
+TypeScript   16 hrs 38 mins  ███████████▒░░░░░░░░░░░░░   44.94 %
+Vue.js       11 hrs 28 mins  ███████▓░░░░░░░░░░░░░░░░░   30.97 %
+Other        1 hr 55 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.21 %
+PHP          1 hr 27 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 %
+HTML         1 hr 7 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.05 %
 ```
 
 <!--END_SECTION:waka-->
