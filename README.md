@@ -183,13 +183,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 January 2024 - To: 19 January 2024
+From: 13 January 2024 - To: 20 January 2024
 
-PHP                        28 hrs 29 mins  ████████████▒░░░░░░░░░░░░   49.55 %
-Vue.js                     7 hrs 34 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.18 %
-Other                      5 hrs 18 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.22 %
-YAML                       4 hrs 25 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 %
-Blade Template             3 hrs 3 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.31 %
+PHP                        31 hrs 8 mins   █████████████░░░░░░░░░░░░   51.92 %
+Vue.js                     10 hrs 8 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.91 %
+Other                      5 hrs 18 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.84 %
+Blade Template             3 hrs 38 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.07 %
+YAML                       1 hr 44 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.91 %
 ```
 
 <!--END_SECTION:waka-->
