@@ -183,13 +183,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 December 2024 - To: 07 January 2025
+From: 01 January 2025 - To: 08 January 2025
 
-HTML          6 hrs 9 mins    ███████▒░░░░░░░░░░░░░░░░░   29.13 %
-Vue.js        5 hrs 54 mins   ███████░░░░░░░░░░░░░░░░░░   27.94 %
-TypeScript    4 hrs 39 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.07 %
-JavaScript    2 hrs 45 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.09 %
-Other         32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 %
+Vue.js        7 hrs 22 mins   █████████▒░░░░░░░░░░░░░░░   37.55 %
+TypeScript    6 hrs 4 mins    ███████▓░░░░░░░░░░░░░░░░░   30.91 %
+HTML          2 hrs 21 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.01 %
+JavaScript    2 hrs 11 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.16 %
+PHP           37 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.16 %
 ```
 
 <!--END_SECTION:waka-->
