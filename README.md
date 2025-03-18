@@ -183,13 +183,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 March 2025 - To: 16 March 2025
+From: 10 March 2025 - To: 17 March 2025
 
-TypeScript   13 hrs 14 mins  ███████████░░░░░░░░░░░░░░   43.87 %
-Vue.js       5 hrs 25 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.00 %
-Other        4 hrs 25 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.66 %
-JavaScript   2 hrs           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.64 %
-Bash         1 hr 46 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.89 %
+TypeScript   13 hrs 21 mins  ███████████░░░░░░░░░░░░░░   44.36 %
+Vue.js       5 hrs 59 mins   █████░░░░░░░░░░░░░░░░░░░░   19.87 %
+Other        4 hrs 17 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.26 %
+Bash         1 hr 46 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.92 %
+JavaScript   1 hr 43 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.70 %
 ```
 
 <!--END_SECTION:waka-->
