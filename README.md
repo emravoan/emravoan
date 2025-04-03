@@ -183,13 +183,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 March 2025 - To: 01 April 2025
+From: 26 March 2025 - To: 02 April 2025
 
-Vue.js       3 hrs 27 mins   █████████▓░░░░░░░░░░░░░░░   38.50 %
-TypeScript   1 hr 47 mins    █████░░░░░░░░░░░░░░░░░░░░   20.00 %
-Bash         1 hr 15 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.03 %
-Git Config   56 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.41 %
-Other        53 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.86 %
+Vue.js       3 hrs 31 mins   █████████░░░░░░░░░░░░░░░░   36.01 %
+HTML         2 hrs 8 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.87 %
+TypeScript   1 hr 26 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.72 %
+Bash         47 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 %
+Other        36 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.24 %
 ```
 
 <!--END_SECTION:waka-->
