@@ -183,13 +183,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 September 2025 - To: 19 September 2025
+From: 13 September 2025 - To: 20 September 2025
 
-Vue.js       34 hrs 41 mins  ██████████████████▒░░░░░░   73.45 %
-TypeScript   10 hrs 54 mins  █████▓░░░░░░░░░░░░░░░░░░░   23.10 %
-Other        48 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
-INI          11 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
-Python       10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
+Vue.js       34 hrs 11 mins  ██████████████████░░░░░░░   71.50 %
+TypeScript   11 hrs 23 mins  ██████░░░░░░░░░░░░░░░░░░░   23.81 %
+Other        54 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
+INI          25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
+JSON         23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
 ```
 
 <!--END_SECTION:waka-->
