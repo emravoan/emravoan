@@ -183,13 +183,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 December 2025 - To: 09 December 2025
+From: 03 December 2025 - To: 10 December 2025
 
-YAML         2 hrs 57 mins   ██████░░░░░░░░░░░░░░░░░░░   23.90 %
-Vue.js       2 hrs 49 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.81 %
-Other        2 hrs 46 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.40 %
-TypeScript   1 hr 59 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.08 %
-Bash         1 hr 1 min      ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 %
+YAML         3 hrs 1 min     ██████░░░░░░░░░░░░░░░░░░░   24.17 %
+Other        2 hrs 57 mins   ██████░░░░░░░░░░░░░░░░░░░   23.65 %
+Vue.js       2 hrs 26 mins   █████░░░░░░░░░░░░░░░░░░░░   19.55 %
+TypeScript   2 hrs 7 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.02 %
+Bash         1 hr 3 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 %
 ```
 
 <!--END_SECTION:waka-->
