@@ -183,13 +183,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 February 2026 - To: 19 February 2026
+From: 13 February 2026 - To: 20 February 2026
 
-Vue.js       3 hrs 4 mins          ████████████████████▒░░░░   81.51 %
-Other        28 mins               ███░░░░░░░░░░░░░░░░░░░░░░   12.46 %
-JSON         10 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.80 %
-Prolog       1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
-TypeScript   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
+Python       6 hrs 55 mins         ██████████████████░░░░░░░   71.54 %
+Vue.js       2 hrs 22 mins         ██████░░░░░░░░░░░░░░░░░░░   24.57 %
+Other        18 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.24 %
+Git Config   1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
+TypeScript   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 ```
 
 <!--END_SECTION:waka-->
