@@ -183,13 +183,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 June 2026 - To: 07 July 2026
+From: 01 July 2026 - To: 08 July 2026
 
-Vue                        4 hrs 22 mins         ███████▓░░░░░░░░░░░░░░░░░   31.16 %
-Other                      3 hrs 4 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.92 %
-Markdown                   3 hrs 4 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.89 %
-SSH Config                 1 hr 12 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 %
-TypeScript                 59 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   07.12 %
+Vue                        3 hrs 51 mins         ███████░░░░░░░░░░░░░░░░░░   28.24 %
+Other                      3 hrs 30 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.65 %
+Markdown                   2 hrs 34 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.85 %
+SSH Config                 1 hr 12 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.81 %
+TypeScript                 43 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.35 %
 ```
 
 <!--END_SECTION:waka-->
