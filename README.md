@@ -183,13 +183,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 August 2026 - To: 09 August 2026
+From: 03 August 2026 - To: 10 August 2026
 
-Vue          7 hrs 15 mins         ████████████▓░░░░░░░░░░░░   51.18 %
-Other        1 hr 55 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.55 %
-TypeScript   1 hr 45 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.38 %
-PHP          1 hr 38 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.61 %
-JavaScript   48 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.66 %
+Vue          7 hrs 15 mins         ██████████████░░░░░░░░░░░   55.49 %
+Other        1 hr 44 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.36 %
+TypeScript   1 hr 25 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.86 %
+PHP          1 hr 10 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.96 %
+JavaScript   42 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.37 %
 ```
 
 <!--END_SECTION:waka-->
