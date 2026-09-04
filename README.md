@@ -183,13 +183,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 August 2026 - To: 02 September 2026
+From: 27 August 2026 - To: 03 September 2026
 
-PHP              5 hrs 34 mins         ████████████▒░░░░░░░░░░░░   48.81 %
-Vue              3 hrs 16 mins         ███████▒░░░░░░░░░░░░░░░░░   28.72 %
-Other            1 hr 29 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.06 %
-JSON             33 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.89 %
-Blade Template   18 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 %
+PHP              3 hrs 8 mins          ██████████▒░░░░░░░░░░░░░░   41.91 %
+Vue              2 hrs 4 mins          ███████░░░░░░░░░░░░░░░░░░   27.75 %
+Other            1 hr 26 mins          ████▓░░░░░░░░░░░░░░░░░░░░   19.24 %
+JSON             24 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.51 %
+Blade Template   18 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 %
 ```
 
 <!--END_SECTION:waka-->
