@@ -183,13 +183,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 September 2026 - To: 27 September 2026
+From: 21 September 2026 - To: 28 September 2026
 
-Other        4 hrs 39 mins         ████████████████▓░░░░░░░░   66.88 %
-Bash         1 hr 20 mins          ████▓░░░░░░░░░░░░░░░░░░░░   19.24 %
-JSON         22 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.36 %
-PHP          21 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.22 %
-TypeScript   8 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 %
+Other        2 hrs 17 mins         ██████████████░░░░░░░░░░░   56.63 %
+Bash         1 hr 9 mins           ███████░░░░░░░░░░░░░░░░░░   28.48 %
+JSON         22 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.20 %
+TypeScript   8 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 %
+Vue          4 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
 ```
 
 <!--END_SECTION:waka-->
